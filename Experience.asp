@@ -18,6 +18,9 @@
     </head>
     <body>
         <h1> Experiences</h1>
-
-    </body>
+        <img class="wexp1" src="wexp1.png" alt="Aubre and Isenhour at work on their computers, one of which probably wishing they were on their phone">
+        <img class="wexp2" src="wexp2.png" alt="Ryan and Shai working on the green side of the room with their computers">
+        <img class="wexp3" src="wexp3.png" alt="Matthew B and Ethan working on their computers opposite of Ryan and Shai on the green side of the room">
+   
+      </body>
         </html>
